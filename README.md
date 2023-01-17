@@ -4,7 +4,7 @@ Klausimas ar gali dirbtinio intelekto sistema išlaikyti matematikos valstybinį
 
 # Kaip pasižiūrėti rezultatus
 
-Tiesiog atsidarykite atitinkamą failą ir tie kiekvienu uždaviniu rasite analitinį jo sprendimą bei sprendimą naudojant **WolfraAlpha** sistemą.
+Tiesiog atsidarykite atitinkamą failą ir ties kiekvienu uždaviniu rasite analitinį jo sprendimą bei sprendimą naudojant **WolfraAlpha** sistemą.
 
 
 
